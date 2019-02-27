@@ -13,13 +13,25 @@
 					<key>url</key>
 					<string>http://cdn.mskvip.com/CardService.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>http://super-card-prod.oss-cn-shenzhen.aliyuncs.com/20190227/fb8ed60997b34bf5b0661a5494a28638.png?Expires=1866599677&amp;OSSAccessKeyId=LTAIDsPeGu8VJN7k&amp;Signature=QZ%2FprAlCdkTaQyk1mrK8TiuIpzc%3D</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>http://super-card-prod.oss-cn-shenzhen.aliyuncs.com/20190227/da13035c304b44c78282c38cfdce29fe.png?Expires=1866599697&amp;OSSAccessKeyId=LTAIDsPeGu8VJN7k&amp;Signature=Jrjjbr4U7h8VRvHbwKqcOwaus5Q%3D</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.wanyou.CardService</string>
+				<string>com.lxhj.loan</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
